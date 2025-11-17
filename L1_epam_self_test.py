@@ -1,4 +1,4 @@
-# mutable vs immutable, data types
+# Data Types
 
 a = 257
 b = a
